@@ -1,0 +1,1 @@
+> `cat log_file_path.conf`

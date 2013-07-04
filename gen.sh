@@ -1,0 +1,1 @@
+./mk-query-digest `cat log_file_path.conf` > $1
